@@ -11,7 +11,7 @@ components can be used to build a variety of HPE web sites, pages and applicatio
 
 grommet is a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. It's also the de-facto UI framework HPE uses to build apps and websites. All of our component design files works especially well when paired with grommet! Go check it out and tell your devs!
 
-To learn more, visit [grommet.io](https://grommet.io)
+_To learn more, visit [grommet.io](https://grommet.io)_
 
 
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch.png "Sketch")  
@@ -20,9 +20,10 @@ To learn more, visit [grommet.io](https://grommet.io)
 
 There are two ways to use the Sketch Component Library; One, by manually downloading the Sketch file that contains the entire symbol library (best for folks that want to enhance the design and contribute ideas to the brand) or, Two, add the Sketch Library (read-only) version that automagically updates from the Cloud! The later, being better for folks that just want to use the standard elements and ensure they're always up to date.
 
-Download the [Sketch Component Library](https://github.com/hpe-design/components/blob/master/grommet-2-hpe-theme.sketch)
+_Download the [Sketch Component Library](https://github.com/hpe-design/components/blob/master/grommet-2-hpe-theme.sketch)_
 
-Click the link to add to you your Sketch app, [Sketch Component Library](https://sketch.cloud/s/9oJ4D)
+_Click the link to add to you your Sketch app, [Sketch Component Library](https://sketch.cloud/s/9oJ4D)_
+If you don't see this window, goto the Menubar and navigate to, `Sketch/ Preferences.../ Libraries` or use shortcut `command + ,` and add it manually with the `+` button. (see below)
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch-library.png "Components")
 
 
