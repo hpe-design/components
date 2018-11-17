@@ -26,7 +26,7 @@ Click the link to add to you your Sketch app, [Sketch Component Library](https:/
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch-library.png "Components")
 
 
-![alt text](https://github.com/hpe-design/components/blob/master/Previews/figma.png "Adobe XD")  
+![alt text](https://github.com/hpe-design/components/blob/master/Previews/xd.jpeg "Adobe XD")  
 
 ## Adobe XD
 
