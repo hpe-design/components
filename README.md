@@ -37,7 +37,7 @@ If you don't see this window, goto the Menubar and navigate to, `Sketch/ Prefere
 
 Adobe XD is a great alternative to Sketch (Mac only) for users looking for design and prototyping in the Adobe and Microsoft ecosystems.
 
-**Download the [XD Component](https://github.com/hpe-design/components/blob/master/grommet-2-hpe-theme.xd)**
+**Download the [XD Components](https://github.com/hpe-design/components/blob/master/grommet-2-hpe-theme.xd)**
 
 ---
 
@@ -45,7 +45,7 @@ Adobe XD is a great alternative to Sketch (Mac only) for users looking for desig
 
 ## Figma
 
-For teams that want a web based solution, Figma is a great alternative as it can be run in any modern browser and has a bunch of cool features to check out. From asset creation to comments on the designs, its a great way to work collaboratively with the HPE assets...
+For teams that want a web based solution, Figma is a great alternative as it can be run in any modern browser and it has a bunch of cool features to check out. From asset creation to comments on the designs, its a great way to work collaboratively with the components...
 
 **Open the file on [Figma](https://www.figma.com/file/CZ7fIV3tPpcrwB51JV6gwk79/HPE-Theme-for-Grommet-2)**
 
@@ -54,6 +54,6 @@ For teams that want a web based solution, Figma is a great alternative as it can
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/framer.png "Framer")  
 
 ## Framer X (coming soon)
-The closet we have to design to developer handoff. Framer X takes Sketch libraries to the next level by not only having design components but live coded components in the hands of designers, providing the closest fidelity to the running app.
+The closet we have to parity between the designer and developer. Framer X takes Sketch libraries to the next level by not only having design components but coded components in the same design tool, providing the closest fidelity to the running app.
 
 **Learn more on [Framer's Website](https://framer.com/)**
