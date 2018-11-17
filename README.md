@@ -12,7 +12,7 @@ grommet is a react-based framework that provides accessibility, modularity, resp
 
 To learn more, visit [grommet.io](https://grommet.io)
 
-![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch.png "Sketch")
+![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch.png "Sketch")  
 
 ## Sketch
 
