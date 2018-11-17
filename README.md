@@ -13,6 +13,7 @@ grommet is a react-based framework that provides accessibility, modularity, resp
 
 **To learn more, visit [grommet.io](https://grommet.io)**
 
+---
 
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch.png "Sketch")  
 
@@ -27,6 +28,7 @@ There are two ways to use the Sketch Component Library; One, by manually downloa
 If you don't see this window, goto the Menubar and navigate to, `Sketch/ Preferences.../ Libraries` or use shortcut `command + ,` and add it manually with the `+` button. (see below)
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/sketch-library.png "Components")
 
+---
 
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/xd.jpeg "Adobe XD")  
 
@@ -36,6 +38,7 @@ Adobe XD is a great alternative to Sketch (Mac only) for users looking for desig
 
 **Download the [XD Component](https://github.com/hpe-design/components/blob/master/grommet-2-hpe-theme.xd)**
 
+---
 
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/figma.png "Figma")  
 
@@ -45,6 +48,7 @@ For teams that want a web based solution, Figma is a great alternative as it can
 
 **Open the file on [Figma](https://www.figma.com/file/CZ7fIV3tPpcrwB51JV6gwk79/HPE-Theme-for-Grommet-2)**
 
+---
 
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/framer.png "Framer")  
 
