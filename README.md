@@ -1,6 +1,6 @@
 ![alt text](https://github.com/hpe-design/components/blob/master/Previews/grommet-2-open-theme.png "Components")
 
-<center>Centered text# Components</center>
+# Components
 
 components can be used to build a variety of HPE web sites, pages and applications that are a key way to showcase our brand to employees, customers and partners. In this section you will find the elements to help build your experience to meet hpe.com standards, as well as a set of typographic and color styles on a variety of platforms to help you with your development look and feel.
 
